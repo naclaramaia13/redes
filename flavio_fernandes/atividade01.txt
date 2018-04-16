@@ -1,0 +1,42 @@
+Meu Nome: Flávio Souza Fernandes
+Turma: 431
+
+1- Qual o objetivo principal de uma rede de computadores?
+R: Fornecer troca de informações de maneira segura e rápida, e compartilhamento de recursos.
+
+2- Quais as diferenças entre PAN, LAN, MAN e WAN?
+R: Pan - Redes de baixo alcance(pessoal), em que usa redes que usam tecnologia sem fio para conectar variados dispositivos como celular,
+computadores e etc; Lan: Redes de baixo alcance, que conecta computadores em uma área limitada como uma sala de aula ou uma casa. esse ti_
+po de rede possue três topologias, barra, anel ou estrela que é a mais usada; Man: Redes de médio alcance, que permitem conecções de equi_
+pamentos numa área metropolitana; Wan: REde de longo alcance e nível global, que permite a interligação de redes locais, metropolitanas e 
+equipamentos em uma grande área geográfica.
+
+3- Qual a diferença entre uma rede ponto-a-ponto e uma rede cliente-servidor?
+R: A rede ponto-a-ponto é a interligação direta entre dois computadores e a rede cliente-servidor é a interconecção entre computadores a um
+servidor, onde possue um administrador central controlando o tráfego de informações.
+
+4- Cite três tipos de servidores, quanto aos serviços que realizam, explicando a função de cada um deles. 
+R: Colocated servers, a pessoa coloca seu própio servidor na empresa de web hosting, e ela mesma realiza a manuntenção. O servidor dedicado
+é usado principalmente em relação a servidores de hospedagem, onde o usuario aluga este servidor e o administra. O Virtual private servers é
+um servidor isolado que divide o mesmo hardware de um único servidor físico, onde pode correr as suas própias aplicações.
+
+5- O que é uma topologia de rede do tipo malha?
+R: Os computadores e Redes locais interligam-se entre si, ponto a ponto, através de cabos e dispositvos de interligação adequados, chamados
+de routers, por exemplo, que se encarregam do encaminhamento das mensagens através dos vários nós de malha.
+
+6- O que é uma topologia de rede do tipo híbrida? Como funciona?
+R: A topologia de rede do tipo híbrida é quando uma ou mais topologias de redes estão interligados.Funciona através da combinação de duas ou
+mais topologias de rede permite-nos usufruir das vantagens de cada uma das topologias que estão integradas.
+
+7- Cite um ponto positivo e um ponto negativo, quanto às topoçogias: estrela, barramento e anel.
+R: Na topologia em barra o custo de instalação se torna uma das vantagens, porém, quanto mais computadores interligados, mais lenta ela fica
+além de, se der algum problema no cabo, todos os pontos ficam de concção. Na topologia em anel, uma de suas vantagens é que a sua performace
+não é impactada quanto ao número de usuários, além deles compartilharem a mesma rede, porém se houver uma falha em um único computador, todo 
+o resto é afetado. Na topologia em estrela, ao contrário da topologia em anel, essa rede não afeta os outros computadores quando uma máquina
+da problema, pois ele tem um gerenciador central, por outro lado, quando esse gerenciador falha, todos os computadores ficam se, conecção.
+
+10- Quais as diferenças entre os modos de comunicação: simplex, half-duplex e full-duplex?
+R: Na comunicação simplex a transmissão é feita em um sistema unidirecional, em que uma das unidades apenas transmite e a outra apenas
+recebe. Na comunicação half-duplex a transmissão é bidirecional, ou seja, os elementos TX/RX alternam-se em funções do sentido de envio
+da informação. Na comunicação full-duplex a transmissão é bidirecional. Cada elemento pode transmitir e receber informações ao mesmo
+tempo.
