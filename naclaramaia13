@@ -1,2 +1,123 @@
-enviando meu segundo arquivo
-corrigindo minha atividade
+ 1-A operacionalização de uma rede de computadores tem como objetivos básicos prover a comunicação confiável entre os vários sistemas de informação, melhorar o fluxo e o acesso às informações, bem como agilizar a tomada de decisões administrativas facilitando a comunicação entre seus usuários. Independente do tamanho e do grau de complexidade, o objetivo básico de uma rede de computadores é garantir que todos os recursos de informação sejam compartilhados rapidamente, com segurança e de forma confiável. Para tanto, a rede deve possuir meios de transmissão eficientes, regras básicas (protocolos) e mecanismos capazes de garantir o transporte das informações entre os seus elementos constituintes. Independente do tamanho e do grau de complexidade, o objetivo básico de uma rede de computadores é garantir que todos os recursos de informação sejam compartilhados rapidamente, com segurança e de forma confiável. Para tanto, a rede deve possuir meios de transmissão eficientes, regras básicas (protocolos) e mecanismos capazes de garantir o transporte das informações entre os seus elementos constituintes.
+ 2- LAN (Local Area Networks) – também designadas de redes locais, são o tipo de redes mais comuns uma vez que permitem interligar computadores, servidores e outros equipamentos de rede, numa área geográfica limitada (ex. sala de aula, casa, espaço Internet, etc).
+
+MAN (Metropolitan Area Networks) – permitem a interligação de redes e equipamentos numa área metropolitana (ex. locais situados em diversos pontos de uma cidade).
+
+WAN (Wide Area Netwoks) – permitem a interligação de redes locais, metropolitanas e equipamentos de rede, numa grande área geográfica (ex. país, continente, etc).
+
+PAN (Personal Area Networks) – também designadas de redes de área pessoal, são redes que usam tecnologias de rede sem fios para interligar os mais variados dispositivos (computadores, smartphones, etc) numa área muito reduzida.
+ 3-Em uma rede ponto-a-ponto todos os computadores são iguais, geralmente exercendo a mesma função. Enquanto na rede cliente servidor todos os computadores estão centralizados em um servidor.
+ 4- Servidor compartilhado
+
+É o tipo mais comum de servidor. Também chamado de web hosting compartilhado, esse servidor é mantido por uma empresa especializada. Nele, há espaço e recurso que são compartilhados com uma série de outras empresas que utilizam o serviço. É usado principalmente para pequenas empresas, e que não rodam aplicações complexas – geralmente não excedem os 10 gigabytes. Em muitos casos, mais de 100 empresas costumam dividir o mesmo web hosting.
+
+Servidor dedicado
+
+Esse é um tipo de servidor onde você aluga um servidor físico em uma empresa de web hosting. Nesses casos, o cliente tem acesso total ao servidor. Isso permite que o usuário rode toda e qualquer aplicação através dele.
+
+Reseller hosting
+
+Também trata-se de um servidor compartilhado, mas com ferramentas que permitem que a empresa revenda ou realoque parte do seu espaço contratado com a empresa de web hosting.
+5- Numa topologia em Malha ou Mesh, os computadores e Redes Locais interligam-se entre si, ponto a ponto, através de cabos e dispositivos de interligação adequados. Assim, existem diversos caminhos para se chegar ao mesmo destino.
+
+O papel fundamental, cabe, neste caso, aos dispositivos de interligação – por exemplo, os routers – que se encarregam do encaminhamento das mensagens através dos vários nós da malha constituída.
+6-É a topologia mais utilizada em grandes redes. Assim, adequa-se a topologia de rede em função do ambiente, compensando os custos, expansibilidade, flexibilidade e funcionalidade de cada segmento de rede.
+Numa topologia híbrida, o desenho final da rede resulta da combinação de duas ou mais topologias de rede. A combinação de duas ou mais topologias de rede permite-nos beneficiar das vantagens de cada uma das topologias que integram esta topologia. Embora muito pouco usada em redes locais, uma variante da topologia em malha, a malha híbrida, é usada na Internet e em algumas WANs. A topologia de malha híbrida pode ter múltiplas ligações entre várias localizações, mas isto é feito por uma questão de redundância, além de que não é uma verdadeira malha porque não há ligação entre cada um e todos os nós, somente em alguns por uma questão de backup.
+7- Barra, barramento ou BUS - nesta configuração todos as estações ligam-se ao mesmo meio de transmissão. São geralmente compartilhadas em tempo e frequência, permitindo a transmissão da informação. Cada equipamento possui um unico endereço que o identificará inequivocamente na rede. A informação é disponibilizada para todas as estações da rede, mas só poderá ser lida e interpretada pela estação que possuir o endereço de destino especificado 
+
+Topologia Anel ou Ring - os sinais circulam na rede em um unico sentido e cada estação serve como repetidora, retransmitindo os sinais para o próximo dispositivo de rede até que seja encontrado o destinatário. Estas redes são capazes de transmitir e receber informações em qualquer direção, de forma a tornar menos sofisticados os protocolos de comunicação que asseguram a entrega da mensagem ao seu destino. Os maiores problemas desta topologia estão relacionados com sua pouca tolerancia à falhas, pois erros de transmissão e processamento podem fazer com que uma mensagem continue a circular indefinidamente no anel .
+
+Topologia Estrela ou Star - todas as estações estão conectadas a um dispositivo concentrador, um switch, por exemplo. Todos os usuários comunicam-se com um nodo central que tem o controle supervisor do sistema, conhecido como host, e através deste, os usuários podem comunicar-se entre si e com os processadores remotos ou terminais. A topologia em estrela é a melhor escolha se o padrão de comunicação da rede for de um conjunto de estações secundárias que se comunicam como o nodo central.
+ 8- camada física 
+      Camada de enlace de dados 
+       Camada de rede
+        Camada de transporte 
+        Camada de sessão 
+         Camada de apresentação 
+         Camada de aplicação
+ 9-Camada Física
+
+A camada física é também chamada de camada 1. Entre as funcionalidades básicas da camada física temos:
+
+Responsável por sinais elétricos, de luz, de rádio, etc
+Camada de Hardware da camada OSI
+Dispositivos como repetidores, hubs e etc
+Procolos como RS232, ATM, FDDI
+
+Camada de Enlace de Dados
+
+A camada de enlace de dados, também chamada de camada 2 do modelo OSI. Entre as funcionalidades básicas da camada de enlace temos:
+
+Responsável pela codificação e decodificação dos sinais elétricos em bits
+Gerencia erros de informação da camada física
+Converte os sinais elétricos em frames.
+
+Camada de Rede
+
+Também chamada de camada 3 do modelo OSI. Entre as funcionalidades básicas da camada de rede temos:
+
+Tecnologias de roteamento e ‘switching’ funcionam nessa camada
+Cria caminhos lógicos entre dois hosts pela internet chamados de circuitos virtuais
+Roteia o pacote de informações para o destino
+Roteamento e encaminhamento de pacotes de informação
+
+Camada de Transporte
+
+A camada de transforte também é chamada de camada 4 do modelo OSI. Entre as funcionalidades básicas da camada de transporte estão:
+
+Responsável pela transferência transparente de informação entre sistemas finais
+Reponsável por recuperação de erros, controle de fluxo e end-to-end
+Responsável por completar a transferência de informações
+Protocolos como SPX, TCP, UDP são executados nessa camada
+
+Camada de Sessão
+
+A camada de sessão também é chamada de camada 5 do modelo OSI. Entre suas funcionalidades básicas estão:
+
+Responsável por estabelecer, gerenciar e finalizar conexões entre aplicações
+A camada de sessão prepara, coordena e finaliza conversas, trocas e diálogos entre aplicações na rede
+Lida com a coordenação de sessões e conexões
+Protocolos como o NFS, NetBios, RPC, SQL, são executados nessa camada
+
+Camada de Apresentação
+
+A camada de apresentação também é chamada de camada 6 do modelo OSI. Entre suas funcionalidades básicas estão:
+
+Responsável pela representação de informação na sua tela
+Encriptação e desencriptação da informação
+Sintaxe e semântica da informação
+Exemplos da camada de apresentação incluem encriptação, ASCII, EBCDIC, TIFF, GIF, PICT, JPEG, MPEG, MIDI
+
+
+Camada de Aplicação
+
+A camada de aplicação também é chamada de camada 7 do modelo OSI. Entre suas funcionalidades básicas estão:
+
+A camada de aplicação auxilia aplicações, apps e processos no usuário final
+Qualidade de serviço
+Essa camada é responsável por serviços para transferência de arquivos, emails e outros serviços usando a rede
+Protocolos como Telnet, FTP, HTTP, são executados nessa camada.
+ 10-Simplex
+
+Uma comunicação é dita simplex quando há um transmissor e um receptor, sendo que este papel não se inverte nunca no período de transmissão.
+
+A transmissão tem sentido unidireccional.
+Pode-se ter um transmissor para vários receptores, e o receptor não tem a possibilidade de sinalizar se os dados foram recebidos.
+
+Half Duplex
+
+Uma comunicação é dita half duplex quando temos um Transmissor e um Receptor, sendo que ambos podem transmitir e receber dados, porém nunca simultaneamente, a transmissão tem de sentido bidireccional.
+
+Por exemplo, o dispositivo X poderia transmitir dados que Y receberia, e, em seguida, o sentido da trasmissão seria invertido e Y transmitiria para X a informação se os dados foram corretamente recebidos ou se foram detectados erros de transmissão.
+
+Full Duplex
+
+Uma comunicação é chamada full duplex (ou simplesmente duplex) quando temos o Transmissor e o Receptor, podendo os dois transmitir dados simultaneamente em ambos os sentidos (transmissão bidireccional). Poderíamos entender uma linha full-duplex como equivalente a duas linhas simplex, uma em cada direção. Como as transmissões podem ser simultâneas em ambos os sentidos e não existe perda de tempo com turn-around (operação de troca de sentido de transmissão entre os dispositivos), uma linha full-duplex tem a possibilidade de transmitir mais informações por unidade de tempo que uma linha half-duplex, considerando-se a mesma taxa de transmissão de dados.
+ 11-O modelo TCP/IP está dividido em quatro camadas:
+Camada de aplicação (FTP, SMTP, TELNET, HTTP, HTTPS, etc)
+Camada de transporte (TCP, UDP, etc)
+Camada de rede (IP)
+Camada física (Ethernet, etc)
+12- a camada de internet,pois é ela que define os datagramas e que gerencia as noções de endereçamento IP. Ela permite o encaminhamento dos datagramas (pacotes de dados) para os computadores remotos, bem como a gestão da sua fragmentação e de sua montagem na recepção. A camada de Internet contém cinco protocolos: IP, ARP, ICMP, RARP e IGMP. Os três primeiros protocolos são os mais importantes desta camada. 
+
+No modelo OSI, achei a camada de redes uma camada bastante importante ,Pensando em WAN, é a camada que mais atua no processo. A camada 3 é responsável pelo tráfego no processo de internetworking. A partir de dispositivos como roteadores, ela decide qual o melhor caminho para os dados no processo, bem como estabelecimento das rotas. A camada 3 já entende o endereço físico, que o converte para endereço lógico (o endereço IP).  Exemplo de protocolos de endereçamento lógico são o IP e o IPX. A partir daí, a PDU da camada de enlace, o quadro, se transforma em unidade de dado de camada 3. Exemplo de  dispositivo atuante nessa camada é o Roteador, que sem dúvida é o principal agente no processo de internetworking, pois este determina as melhores rotas baseados no seus critérios,  endereça os dados pelas redes, e gerencia suas tabelas de roteamento.
