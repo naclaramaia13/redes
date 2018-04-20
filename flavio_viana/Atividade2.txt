@@ -1,0 +1,15 @@
+Instituto de Educação, Ciências e Tecnologia da Bahia
+Discente: Flávio Viana Martins
+Doscente: Ramon
+Disciplina: Redes
+
+
+1.	Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+R=O primeiro cabo foi lançadoao mar em 1858 e ligava a Inglaterra com a América do Norte. Os cabos submarinos são colocados no relevo oceânico, entre estações terrestres, para transmitir sinais de telecomunicações através de trechos de mar. Os primeiros cabos submarinos foram estabelecidos na década de 1850, para o tráfego de telegrafia. As gerações subsequentes usaram a rede de cabos realizada para telefonia e, em seguida, para a transmissão de dados. Os cabos modernos usam a tecnologia de fibra óptica para o transporte de dados digitais, o que inclui telefone, Internet e tráfego de dados privados. Atualmente o maior cabo óptico submarino do mundo em extensão é o SEA-ME-WE 3, que mede 38 mil quilômetros e interliga 32 países do Sudeste Asiático, do Oriente Médio e da Europa.O mapa criado pela TeleGeography apresenta cerca de 350 cabos que atravessam oceanos, mares e seguem o litoral de muitos países. Ainda, toda a rede possui mais de 885 mil quilômetros. Há, hoje, no Brasil, sete cabos submarinos em funcionamento responsáveis por praticamente todo o tráfego de dados do país com o mundo. Atualmente o cabo que possui a maior taxa de transmissão em apenas 1 segundo, o cabo submarino que liga Hong Kong a Los Angeles, nos Estados Unidos, bateu o recorde de transmissão de 144 terabits.
+
+2.Tubarões podem danificar cabos submarinos?
+ R=Sim, cientistas ainda não chegaram a nenhuma explicação conclusiva do   motivo. Mas tubarões costumam morder esses cabos. Alguns sugerem que os animais são atraídos pelos pulsos eletromagnéticos, enquanto outros acreditam que a causa pode ser nada além de uma inocente curiosidade. Para se proteger dos ataques, o Google declarou que está revestindo seus cabos submarinos com um material especial, o Kevlar, cinco vezes mais resistente do que o aço.
+
+
+3. O que ocorre quando cabos submarinos são rompidos?
+R=Os cabos submarinos possibilitam uma troca de comunicação entre diferentes continentes, possibilitando maior velocidade em sua rede de internet, quando ocorre um rompimento, muitas vezes por navios, pode chegar à determinadas regiões ficarem sem conexões com a internet, para o conexão voltar à ativa, é necessário que o cabo seja submetido por um procedimento em que o seu revestimento exterior, em vidro, seja derretido para que se junte novamente.
