@@ -1,0 +1,21 @@
+Nome: Flávio Souza Fernandes
+TI 431
+
+1 - Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando
+também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes 
+no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+R - Cabo submarino é um cabo telefônico especial, que recebe uma proteção mecânica adicional, própria para instalação sob a água, por exem_
+plo, em rios, baías e oceanos. Normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais. o primeiro cabo submarino
+de que se tem notícia foi um cabo telegráfico lançado em 1851 no Canal Inglês de Dove, porém O primeiro cabo submarino transatlântico lança_
+do com sucesso só correu em 1866. No mundo há cerca de 350 cabos que atravessam oceanos, mares e seguem o litoral de muitos países. No Brasi_
+há 7 cabos submarinos com previsão para aumentar a quantidade para 16 cabos até 2019.O cabo submarino com maior taxa de transmissão atualmen_
+te está ligado de Hong Kong até Los Angeles batendo um record de 144 gigabits.
+
+2 - Tubarões podem danificar cabos submarinos?
+R - Não apenas tubarões mas outros animais maritimos podem danificar cabos submarinos, há registro em video de um tubarão atacando um cabo
+submarino. Segundo informações do The Guardian, os tubarões atacaram as estruturas subaquáticas que a empresa Google montou para possibili_
+tar a construção de cabos submarinos que ligam os Estados Unidos ao Japão.
+
+3 - que ocorre quando cabos submarinos são rompidos?
+R - O trafego de dados é totalmente perdido ou em alguns casos limitados, há exemplo de cabos que foram rompidos e deixaram alguns paises sem
+internet e outros casos que a internet funciona com a conexão bem abaixo do normal.
