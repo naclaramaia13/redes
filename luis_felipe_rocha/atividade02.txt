@@ -1,0 +1,32 @@
+Questão 1:Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo 
+e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também 
+quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+
+Resposta1:Cabos submarinos são colocados no relevo oceânico, entre estações terrestres, para transmitir sinais de 
+telecomunicações através de trechos de mar. Os primeiros cabos submarinos foram estabelecidos na década de 1850, para o tráfego de 
+telegrafia. Hoje em dia os cabos conectam todos os continentes, exceto a Antártida. Os cabos modernos usam a tecnologia de fibra  
+óptica (filamento flexível e transparente fabricado a partir de vidro ou plástico extrudido e que é utilizado como condutor de 
+elevado rendimento de luz, imagens ou impulsos codificados. Têm diâmetro de alguns micrómetros, ligeiramente superior ao de um 
+fio de cabelo humano) para o transporte de dados digitais, o que inclui telefone, Internet e tráfego de dados privados. Os cabos com maiores 
+valores de transmissão de dados são os que ligam a América á Europa.
+
+
+
+
+Questão 2:Tubarões podem danificar cabos submarinos?
+
+Resposta2: Desde o início da instalação destes cabos, de fibra ótica, são ápreciados’ por predadores. Eles já demonstravam um
+implacável apetite em mordiscar essas estruturas estendidas pelo fundo do oceano.Cientistas ainda não chegaram a nenhuma explicação 
+conclusiva do motivo. Mas tubarões costumam morder esses cabos. Alguns sugerem que os animais são atraídos pelos pulsos 
+eletromagnéticos, enquanto outros acreditam que a causa pode ser nada além de uma inocente curiosidade. 
+
+Questão 3:O que ocorre quando cabos submarinos são rompidos?
+
+Resposta3:Para encontrar a parte danificada são feitas medições nos extremos do cabo. Quando o navio chega, o processo leva 
+em geral um dia, mas não é sempre assim", afirma o historiador tecnológico Bill Burns.
+A reparação é um trabalho entre homem e máquina, muitas vezes a milhares de metros abaixo do mar, condição em que precisão e 
+técnica são fundamentais. Se o cabo nãofoi completamente cortado, o tráfego de internet é redirecionado a outro sistema de cabos, e 
+muitas vezes os usuários nem percebem o problema. Quando algo assim ocorre, é preciso atuar com urgência. As operações de reparo 
+ocorrem dentro e fora da água. Para o conserto, é preciso cortar o pedaço danificado e colocar uma nova peça, numa espécie de remendo.
+A equipe a bordo do navio insere a parte nova e deopis o robô volta ao fundo do mar e a conecta ao extremo do cabo, que em seguida é 
+enterrado novamente sob o leito oceânico.
