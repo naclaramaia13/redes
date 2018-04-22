@@ -7,7 +7,8 @@ Aluno: Cássio Dias
                                                    ATIVIDADE 02 – CABOS SUBMARINOS
                                                    
 1. Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando 
-também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente 
+existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
 
 R: Cabo submarino é um cabo especial, que recebe uma proteção mecânica adicional, própria para instalação sob a água, por exemplo, 
 em rios, baías e oceanos. Normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais, este tipo de cabo 
