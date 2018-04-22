@@ -7,8 +7,7 @@ Aluno: Cássio Dias
                                                    ATIVIDADE 02 – CABOS SUBMARINOS
                                                    
 1. Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando 
-também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes
-no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
 
 R: Cabo submarino é um cabo especial, que recebe uma proteção mecânica adicional, própria para instalação sob a água, por exemplo, 
 em rios, baías e oceanos. Normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais, este tipo de cabo 
@@ -24,36 +23,7 @@ possui mais de 885 mil quilômetros — alguns cabos são enterrados a mais de 8
 
 A invenção da telegrafia por Samuel Morse em 1843 incentivou a ideia de serem lançados cabos atravessando o Atlântico para utilizar a 
 nova tecnologia o norte-americano Charles Field e os britânicos Charles Bright e os irmãos John e Jacob Brett fundaram uma empresa para
-lançar o primeiro cabo submarino telegráfico intercontinental. No ano de 1844 dois navios, um britânico e um americano, 
-transportaram 4.630 km de cabo, partindo da Irlanda o cabo se rompeu quanto já haviam sido lançados cerca de 750 km. Muito embora 
-existam divergências quanto às datas, o primeiro cabo submarino de que se tem notícia de um certo “sucesso” foi um cabo telegráfico 
-lançado em 1851 no Canal Inglês de Dover. Seu funcionamento, no entanto, foi passageiro, o sistema era lento com uma largura de banda 
-capaz de transportar apenas duas palavras por minuto. Nova tentativa foi feita em 1858 e novo rompimento ocorreu quando somente 250 km 
-haviam sido lançados. Ainda em 1858 houve uma terceira tentativa. Essa foi bem-sucedida, os navios partiram do meio do Atlântico e 
-atingiram portos em lados opostos sem nenhuma ocorrência de rompimento. Esse sucesso, porém, também teve uma curta duração, pois poucas
-semanas depois, o cabo por problemas das voltagens utilizadas veio a falhar. Somente 8 anos depois garantiram-se operações confiáveis
-nessa comunicação entre América do Norte e Europa. O primeiro cabo submarino transatlântico lançado com sucesso só correu em 1866. 
-O número de cabos submarino metálico continuou crescendo, mas ainda se limitavam à transmissão de mensagens telegráficas. O cabo
-submarino coaxial surgiu em 1956 e permitiu a comunicação de várias pessoas ao mesmo tempo. 
-No início dos anos 70, com o desenvolvimento do cabo óptico e a sua aplicação na comunicação submarina, este meio de transmissão
-tornou-se a melhor opção. O primeiro sistema óptico, precursor dos sistemas de cabos submarinos atuais, foi implantado nas Ilhas Canárias
-em 1982. A era do cabo óptico submarino de longa distância teve início efetivamente em 1988 com o lançamento de um cabo óptico submarino
-transatlântico entre os oceanos Pacífico e Atlântico (interligando USA, França e Inglaterra) com capacidade de transmissão em massa.
-A primeira rede de fibra ótica foi implementada em 1988 e interligou os Estados Unidos com a Grã-Bretanha, a Alemanha e a Holanda. 
-Este cabo elevou a capacidade de tráfego entre os EUA e a Europa para 20.000 circuitos de voz. No final do século XX e início do 
-século XXI o mundo viu um aumento efetivo de oferta de banda através dos novos sistemas de cabos submarinos que foram lançados neste 
-período no Oceano Pacífico, Oceano Atlântico, Sudeste da Ásia, e América do Sul. Neste período as Américas vivenciaram o lançamento de 
-três novas redes ópticas submarinas de grande capacidade e alta tecnologia que interligam as três Américas circundando-as pelo Atlântico
-e o Pacífico: SAM1 da Emergia, o South American Crossing da Global Crossing e o 360 Network. O tempo de transmissão de um sinal, que nos
-primórdios da telegrafia ainda era medido em minutos, caiu para milissegundos com o emprego da fibra ótica. No Brasil, o primeiro cabo 
-submarino fez parte da primeira linha telegráfica brasileira. Foi inaugurado em 1857 e interligava a Praia da Saúde no Rio de Janeiro com
-a cidade de Petrópolis. Os primeiros cabos totalmente submarinos foram inaugurados por D. Pedro II em 1874, interligando o Rio de Janeiro
-, Salvador, Recife e Belém. A linha Recife, João Pessoa, Natal foi estabelecida em 1875. A primeira ligação internacional por cabo foi
-feita no mesmo ano, com Portugal, tendo sido concluída por meio de contrato com a empresa British Eastern Telegraph Company. A ligação 
-com a Europa foi resultado do espírito empreendedor de Irineu Evangelista de Souza, Barão e depois Visconde de Mauá, que participou da 
-organização e financiamento da instalação do cabo submarino. No Brasil estima-se que até 2019 vamos ter 16 cabos submarinos em 
-funcionamento o mais novo deles chamado de EllaLink (ainda em construção) e com 9,2 mil quilômetros de extensão. Todos eles já são ou 
-serão responsáveis por transmitir dados de internet e telefonia para diversas partes do país e do mundo.
+lançar o primeiro cabo submarino telegráfico intercontinental. No ano de 1844 dois navios, um britânico e um americano, transportaram 4.630 km de cabo, partindo da Irlanda o cabo se rompeu quanto já haviam sido lançados cerca de 750 km. Muito embora existam divergências quanto às datas, o primeiro cabo submarino de que se tem notícia de um certo “sucesso” foi um cabo telegráfico lançado em 1851 no Canal Inglês de Dover. Seu funcionamento, no entanto, foi passageiro, o sistema era lento com uma largura de banda capaz de transportar apenas duas palavras por minuto. Nova tentativa foi feita em 1858 e novo rompimento ocorreu quando somente 250 km haviam sido lançados. Ainda em 1858 houve uma terceira tentativa. Essa foi bem-sucedida, os navios partiram do meio do Atlântico e atingiram portos em lados opostos sem nenhuma ocorrência de rompimento. Esse sucesso, porém, também teve uma curta duração, pois poucas semanas depois, o cabo por problemas das voltagens utilizadas veio a falhar. Somente 8 anos depois garantiram-se operações confiáveis nessa comunicação entre América do Norte e Europa. O primeiro cabo submarino transatlântico lançado com sucesso só correu em 1866. O número de cabos submarino metálico continuou crescendo, mas ainda se limitavam à transmissão de mensagens telegráficas. O cabo submarino coaxial surgiu em 1956 e permitiu a comunicação de várias pessoas ao mesmo tempo. No início dos anos 70, com o desenvolvimento do cabo óptico e a sua aplicação na comunicação submarina, este meio de transmissão tornou-se a melhor opção. O primeiro sistema óptico, precursor dos sistemas de cabos submarinos atuais, foi implantado nas Ilhas Canárias em 1982. A era do cabo óptico submarino de longa distância teve início efetivamente em 1988 com o lançamento de um cabo óptico submarino transatlântico entre os oceanos Pacífico e Atlântico (interligando USA, França e Inglaterra) com capacidade de transmissão em massa. A primeira rede de fibra ótica foi implementada em 1988 e interligou os Estados Unidos com a Grã-Bretanha, a Alemanha e a Holanda. Este cabo elevou a capacidade de tráfego entre os EUA e a Europa para 20.000 circuitos de voz. No final do século XX e início do século XXI o mundo viu um aumento efetivo de oferta de banda através dos novos sistemas de cabos submarinos que foram lançados neste período no Oceano Pacífico, Oceano Atlântico, Sudeste da Ásia, e América do Sul. Neste período as Américas vivenciaram o lançamento de três novas redes ópticas submarinas de grande capacidade e alta tecnologia que interligam as três Américas circundando-as pelo Atlântico e o Pacífico: SAM1 da Emergia, o South American Crossing da Global Crossing e o 360 Network. O tempo de transmissão de um sinal, que nos primórdios da telegrafia ainda era medido em minutos, caiu para milissegundos com o emprego da fibra ótica. No Brasil, o primeiro cabo submarino fez parte da primeira linha telegráfica brasileira. Foi inaugurado em 1857 e interligava a Praia da Saúde no Rio de Janeiro com a cidade de Petrópolis. Os primeiros cabos totalmente submarinos foram inaugurados por D. Pedro II em 1874, interligando o Rio de Janeiro, Salvador, Recife e Belém. A linha Recife, João Pessoa, Natal foi estabelecida em 1875. A primeira ligação internacional por cabo foi feita no mesmo ano, com Portugal, tendo sido concluída por meio de contrato com a empresa British Eastern Telegraph Company. A ligação com a Europa foi resultado do espírito empreendedor de Irineu Evangelista de Souza, Barão e depois Visconde de Mauá, que participou da organização e financiamento da instalação do cabo submarino. No Brasil estima-se que até 2019 vamos ter 16 cabos submarinos em funcionamento o mais novo deles chamado de EllaLink (ainda em construção) e com 9,2 mil quilômetros de extensão. Todos eles já são ou serão responsáveis por transmitir dados de internet e telefonia para diversas partes do país e do mundo.
 
 Não se sabe ao certo qual cabo atualmente existente no mundo possui a maior taxa de transmissão de dados e nem o valor dessa taxa, mas 
 hoje a velocidade média de transmissão de dados pelos cabos é de aproximadamente 4 Tbps (terabits por segundo), contudo já temos cabos 
@@ -62,18 +32,14 @@ liga São Paulo até Nova York com a transmissão de dados ocorrendo em 72 Tbps.
 
 2. Tubarões podem danificar cabos submarinos?	
 
-R: Sim, os tubarões podem danificar os cabos submarinos na verdade desde o início de sua instalação estes cabos, de fibra ótica, 
-são ‘apreciados’ por esses predadores. Eles já demonstravam um implacável apetite em mordiscar essas estruturas estendidas pelo fundo do 
-oceano. Cientistas ainda não chegaram a nenhuma explicação conclusiva do motivo. Mas tubarões costumam morder esses cabos. Alguns 
-sugerem que os animais são atraídos pelos pulsos eletromagnéticos, enquanto outros acreditam que a causa pode ser nada além de uma 
-inocente curiosidade.
+R: Sim, os tubarões podem danificar os cabos submarinos na verdade desde o começo da instalação estes cabos, de fibra ótica, 
+são "estimados" pelos tubarões. Eles já apresentavam uma inexorável fome em morder essas estruturas estendidas na profundidade dos 
+mares. Cientistas ainda não conseguiram achar uma explicação conclusiva do motivo, mas esses predadores costumam abocanhar esses cabos. Uns propõem que os animais são cativados pelos pulsos eletromagnéticos, enquanto outros creem que a causa pode ser nada além de uma  curiosidade.
 
 3. O que ocorre quando cabos submarinos são rompidos?
 
 R: Diversa situações podem-se ocorrer quando um cabo submarino é rompido de ‘apenas’ a internet ficar mais lenta, países ao qual o cabo
-está conectado ficar sem internet por alguns dias, até cortar a comunicação de países inteiros, além disso o rompimento de um cabo destes
-pode fazer com que outras conexões fiquem sobrecarregadas e, por consequência, reduzam a velocidade de compartilhamento de dados para 
-algumas regiões do globo. 
+está conectado ficar sem internet por alguns dias, até cortar a comunicação de países inteiros, além disso o rompimento de um cabo destes pode fazer com que outras conexões fiquem sobrecarregadas e, por consequência, reduzam a velocidade de compartilhamento de dados para algumas regiões do globo. 
 
 
 
