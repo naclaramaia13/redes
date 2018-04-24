@@ -1,0 +1,32 @@
+I.F.B.A. - Campus Jequié
+Curso Técnico de Informatica
+André Luca Lopes Lima
+Profº. Ramon Fontes
+
+-Questões de aprendizagem-
+
+1_ Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+Cabo submarino é um cabo telefônico especial, que recebe uma proteção mecânica adicional,
+própria para instalação sob a água, por exemplo, em rios, baías e oceanos.
+Normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais.
+Este tipo de cabo telefônico é utilizado principalmente em redes internacionais de telecomunicações, que interligam países e continentes.
+No Brasil, pelo seu tamanho continental, o cabo submarino é utilizado para interconectar toda a sua costa.
+Seu tipo pode ser metálico, coaxial ou óptico, sendo este último o mais utilizado atualmente.
+Os cabos submarinos são utilizados desde a década de 1850 para transmissão de informações.
+Como o Brasil é um país continental, muito deles foram construídos para ligar as diversas regiões da nossa costa litorânea.
+Mas há também cabos que ligam o Brasil ao restante do mundo, como aos Estados Unidos e a Europa.
+Há, hoje, no Brasil, sete cabos submarinos responsáveis por praticamente todo o tráfego de dados do país com o mundo.
+Em todo o mundo, existem mais de 300 cabos submarinos que somam mais de 800 mil quilômetros.
+Além disso, as fibras óticas que atualmente recheiam os cabos submarinos têm capacidade de tráfego de dados até 1.000 vezes maior que os satélites.
+Cabos submarinos com fibras óticas transmitem alguns terabits de informação por segundo.
+É como se, em um segundo, uma fibra ótica apenas pudesse enviar o conteúdo equivalente ao que cabe em 102 DVDs, ao passo que satélites são incapazes de mandar sequer o conteúdo de apenas um DVD em um segundo.
+
+2_  O que ocorre quando cabos submarinos são rompidos?
+Existem inúmeras ameaças à segurança de um cabo de transferência de dados que se estende por milhares de quilômetros no fundo do oceano.
+Uma delas,são os tubarões, que tem um gosto especial por cabos submarinos.
+Dan Belcher, gerente de produto na empresa, diz que para evitar danos aos cabos e também à fauna marinha, quando um cabo atravessa o oceano, ele é revestido com um material semelhante ao Kevlar usado em coletes à prova de balas.
+Um dos objetivos é evitar que tubarões mastiguem toda a fiação.
+E isso acontece com frequência.
+
+3_  O que ocorre quando cabos submarinos são rompidos?
+Quando há o rompimento de um cabo submarino a conexão feita por esse cabo fica inacessível ou com a conexão estremamente ruim, entretanto alguns provedores fazem backups dos dados para que o usuario tenha o minimo acesso quando isso acontece.
