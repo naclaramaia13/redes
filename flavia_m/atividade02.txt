@@ -1,0 +1,33 @@
+Nome: Flavia Medrado Moreira de Souza
+Turma:431
+
+1.	Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+
+Cabo submarino é um cabo telefônico especial, que recebe uma proteção mecânica adicional, própria para instalação sob a água, por exemplo,
+em rios, baías e oceanos. Normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais. 
+A quantidade de cabos submarinos existentes no mundo é em cerca de 350 cabos, já no Brasil já atuam 7 cabos deste tipo e 8 projetos estão 
+em construção. Existe um projeto dos governos brasileiro e espanhol para a construção de um novo cabo que ligará a América do Sul à Europa
+com 9,2 mil quilômetros de extensão. Os cabos submarinos surgiram junto com o capitalismo moderno. Em 1958, com  desenvolvimento industrial
+no seu auge, começa a funcionar o primeiro cabo de comunicação transatlântico. Ele servia a tecnologia em voga à época: o telégrafo.
+O cabo levou 4  anos para ficar pronto e ligava a Irlanda à Ilha Terra Nova. A primeira mensagem oficial transmitida foram 99 palavras. 
+O cabo foi desativado depois de um mês de funcionamento, sobrecarregado pela energia usada para transmitir mensagens. Em 1866 e 1868 foi 
+construído então um novo cabo transatlântico, também pelos britânicos. Os cabos submarinos usados pelos telégrafos se espalharam pelo mundo.
+Ao longo de todo esse período, os cabos submarinos, construídos por empresas privadas com apoio estratégicos dos governos foram alvo de 
+espionagem e sabotagem. Recentemente, Edward Snowden denunciou que a agência de vigilância dos EUA monitora os cabos submarinos do mundo
+todo, e, em 2015, americanos mostraram-se preocupados com barcos russos chegando perto demais dos cabos.
+
+
+2.	Tubarões podem danificar cabos submarinos?
+
+ Os ataques realizados pela fauna marinha podem interferir na transmissão dos dados do cabo de fibra óptica atacado.
+ A Google, uma empresa conhecida internacionalmente, anunciou que os cabos que fazem a ligação dos EUA à Ásia pelo Oceano Pacifico,
+ tem sido afetados por mordidas de tubarão. A solução proposta é revestir estes cabos com um material sintético que é mais resistente
+ que o aço, o Kevlar. Não se sabe porque os cabos são uma atração para os tubarões, mas além da simples curiosidade, poderá passar pelo
+ fato de estes sentirem a alta voltagem que corre pelos cabos.  
+
+3.	O que ocorre quando cabos submarinos são rompidos?
+
+Quando cabos submarinos são rompidos a conexão é cortada podendo deixar um país inteiro sem internet, como aconteceu no dia 30 de Março
+do ano corrente. O cabo que liga a Africa do Sul à Europa foi acidentalmente rompido e a consequência desse acidente foi que diversos 
+países ficaram com problemas de acesso a internet. A Muritânia foi um dos lugares afetados e ficou 48hrs totalmente desconectada da rede 
+mundial de computadores até que a conexão começou a ser restaurada.
