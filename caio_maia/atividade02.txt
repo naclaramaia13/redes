@@ -1,0 +1,16 @@
+Meu nome: Caio S. Maia
+Turma: 431
+
+01-Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+ R: Este tipo de cabo telefônico é utilizado principalmente em redes internacionais de telecomunicações, que interligam países e continentes. No Brasil, pelo seu tamanho continental, o cabo submarino é utilizado para interconectar toda a sua costa. Seu tipo pode ser metálico, coaxial ou óptico, sendo este, o mais utilizado atualmente, além de receber uma proteção mecânica adicional, própria para instalação sob a água, normalmente dispõe de alma de aço e de um isolamento e proteção mecânica especiais.
+    Embora haja uma ddiversidade de datas, o primeiro cabo submarino de que se tem notícia foi um cabo telegráfico lançado em 1851 no Canal Inglês de Dover. Em 1858 foi lançado o primeiro cabo submarino metálico transatlântico interligando a América do Norte e a Inglaterra. O sistema era lento com uma largura de banda capaz de transportar apenas duas palavras por minuto.
+    O primeiro cabo submarino transatlântico lançado com sucesso só correu em 1866.
+    O mapa criado pela TeleGeography apresenta cerca de 350 cabos que atravessam oceanos, mares e seguem o litoral de muitos países.No Brasil, o primeiro cabo submarino fez parte da primeira linha telegráfica brasileira. Foi inaugurado em 1857 e interligava a Praia da Saúde no Rio de Janeiro com a cidade de Petrópolis. O brasil também possui no momento 7 cabos submarinos responsáveis pelo tráfego de dados do país com o mundo.
+    A fibra óptica é a mais usada nos cabos submarinos, pois conseguem transmitir alguns terabits de informação por segundo, equivalente ao que cabe em 102 DVDs.
+    A instalação desses cabos funcionam através de navios gigantescos, cuja possuem uma espécie de "rolo" de cabos, em que vai se desenrolando de acordo com o navio vai trafegando pelo local destinado.
+     
+02-Tubarões podem danificar cabos submarinos?
+ R: Sim, pois há evidências de tubarões tentando morder cabos no fundo do mar começaram a surgir em 1987 e vídeos recentes comprovam o inexplicável interesse dos peixes por esse material. 
+
+03- O que ocorre quando cabos submarinos são rompidos?
+ R: Pode apresentar instabilidade ou desconectar todo o local, que recebe esse cabo, do mundo até que o problema seja resolvido. Um exemplo disso foi o ocorrido em Mauritãnia, onde o rompimento ocorreu perto da capital, deixando p país desconectado do mundo por quase dois dias, e após a correção do problema, a conexão continuou instável.
