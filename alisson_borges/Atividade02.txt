@@ -1,0 +1,16 @@
+Aluno: Alisson Silva Borges
+Turma: 431
+
+Questões de Aprendizagem
+
+01.Conceitue cabos submarinos e tente identificar a quantidade de cabos
+submarinos existentes no mundo e também no Brasil, comentando também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+Cabos submarinos são cabos utilizados para a transmissão de sinais de telecomunicação entre dois locais terrestres, sendo colocados em relevo oceânico.
+O primeiro cabo foi construído pela companhia Cyrus West Field, sendo usado para a telegrafia, levou-se quatro anos para que sua construção e instalação fossem concluídas, ligando assim a Irlanda à Ilha Terra Nova, próximo do Canadá, já os atuais contam com a tecnológia de fibra ótica e são usados para a transmissão de dados digitais. No mundo todo existem mais de 300 cabos submarinos, somando mais de 800 mil quilômetros, no Brail há 16 cabos, 7 deles em funcionamento e 9 em construção, incluindo o projeto Ellalink. O FASTER é o cabo com a maior taxa de transmissão de dados atualmente, com uma extensão total de aproximadamente 11.629 km e uma capacidade de 60 Tb / s, ele liga Oregon  nos EUA e Taiwan no Japão.
+
+
+02. Tubarões podem danificar cabos submarinos?
+Sim, vários cabos que estão debaixo do oceano acabam sendo mordidos por tubarões e outras espécies de peixe, mordidas estas que são capazes de danificar o cabos, gerando falhas na transmissão de dados, não se sabe exatamente o motivo que leva esses animais a morderem os cabos.
+
+03. O que ocorre quando cabos submarinos são rompidos?
+Quando um cabo submarino é rompido a transmissão dos dados transportados pelo mesmo é interrompida, causando assim problemas como a dificuldade para acessar serviços de internet, ou pode até mesmo deixar os locais para onde esse cabo levava dados desconectados da internet até que ele seja reparado, já que 99% dos dados internacionais são transmitidos por fios submersos no oceano.

@@ -1,0 +1,40 @@
+Aluna: Juliana Ferreira Damasceno
+Turma 431
+Questões de Aprendizagem
+
+01_Conceitue cabos submarinos e tente identificar a quantidade de cabos submarinos existentes no mundo e também no Brasil, comentando
+também sobre sua história, desde a instalação do primeiro cabo. Tente identificar também quais dos cabos submarinos atualmente existentes
+no mundo possui maior taxa de transmissão de dados e qual o valor dessa taxa.
+
+RESPOSTA: Cabos submarinos são cabos por onde passam os sinais responsáveis por 99% das comunicações no mundo. Esses cabos são colocados
+no relevo oceânico, entre estações terrestres, para transmitir sinais de telecomunicações através de trechos de mar. Os primeiros cabos 
+submarinos foram estabelecidos na década de 1850, para o tráfego de telegrafia. As gerações subsequentes usaram a rede de cabos realizada 
+para telefonia e, em seguida, para a transmissão de dados. A invenção da telegrafia por Samuel Morse em 1843 incentivou a ideia de serem 
+lançados cabos atravessando o Atlântico para utilizar a nova tecnologia. O norte-americano Charles Field e os britânicos Charles Bright e 
+os irmãos John e Jacob Brett fundaram uma empresa para lançar o primeiro cabo submarino telegráfico intercontinental. No ano seguinte, dois
+navios, um britânico e um americano, transportaram 2.500 milhas náuticas (4.630 km) de cabo, partindo da Irlanda. O cabo se rompeu quanto 
+já haviam sido lançados cerca de 750 km. Nova tentativa foi feita em 1858 e novo rompimento ocorreu quando somente 250 km haviam sido 
+lançados. Ainda em 1858 houve uma terceira tentativa. Essa foi bem sucedida, os navios partiram do meio do Atlântico e atingiram portos em 
+lados opostos sem nenhuma ocorrência de rompimento. A mensagem: "Glory to God in the highest, and on Earth, peace, good will to men." foi
+enviada. Esse sucesso teve, porém, curta duração, pois poucas semanas depois desse pioneiro sucesso, o cabo por problemas das voltagens
+utilizadas veio a falhar. Somente 8 anos depois garantiram-se operações confiáveis nessa comunicação entre América do Norte e Europa. No 
+Brasil, o primeiro cabo submarino fez parte da primeira linha telegráfica brasileira. Foi inaugurado em 1857 e interligava a Praia da 
+Saúde no Rio de Janeiro com a cidade de Petrópolis. Os cabos modernos usam a tecnologia de fibra óptica para o transporte de dados digitais,
+o que inclui telefone, Internet e tráfego de dados privados.
+
+
+02_Tubarões podem danificar cabos submarinos? 
+
+RESPOSTA: Não só tubarões, mas anzóis de pesca, âncoras e terremotos podem sim danificar cabos submarinos. Para tentar diminuir o risco de
+acidentes, algumas empresas começaram a revestir os cabos com um material semelhante ao Kevlar, utilizado em coletes á prova de balas e 
+mais resistente que o aço, para evitar principalmente que tubarões mastiguem os cabos, o que acontece com certa frequência.
+
+
+03_O que ocorre quando cabos submarinos são rompidos?
+
+RESPOSTA: Assim que um cabo submarino é rompido, a internet cai instantaneamente no país. Os responsáveis por observar esses cabos percebem
+uma variação súbita na voltagem que é causada pelo contato com o mar e logo enviam navios especiais de reparos. A reparação é um trabalho 
+entre homem e máquina, muitas vezes a milhares de metros abaixo do mar, condição em que precisão e técnica são fundamentais. Se o cabo não
+foi completamente cortado, o tráfego de internet é redirecionado a outro sistema de cabos, e muitas vezes os usuários nem percebem o 
+problema. Quando algo assim ocorre, é preciso atuar com urgência. As operações de reparo ocorrem dentro e fora da água.
+

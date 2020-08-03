@@ -1,0 +1,83 @@
+Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Jequié
+Curso Técnico de Informática
+Turma 431
+Profº. Ramon Fontes
+Discente:Layla Andrade de Almeida
+
+
+Questões de Aprendizagem
+
+
+Introdução às Redes de Computadores
+
+1. Qual o objetivo principal de uma rede de computadores?
+Tem como objetivos a troca de informações e o compartilhamento de recursos, entre os vários sistemas de informação, de forma confiável e eficiente. Também melhorar o fluxo e o acesso a estas informações, e agilizar a tomada de decisões administrativas  facilitando a comunicação entre seus usuários.
+
+2. Quais as diferenças entre as redes PAN, LAN, MAN e WAN?
+A principal diferença entre estas redes é a área de alcance que cada uma tem.
+A PAN (rede pessoal) interliga aparelhos em uma área pessoal, com uma alcance de até 10 metros. A LAN (rede local) normalmente cobre um alcance de no máximo 10 Km, abrangendo ambientes residenciais, empresas, lugares públicos. A MAN (redes metropolitanas) tem alcance médio, sendo possível conectar redes de escritórios de uma mesma empresa ou de campus de universidades. A WAN é uma rede de longa distância, que pode abranger locais um  país ou continente.
+
+3. Qual a diferença entre uma rede ponto-a-ponto e uma rede cliente-servidor?
+Na rede cliente-servidor todos os computadores estão centralizados em um servidor, ou seja, uma máquina ou um pequeno grupo de máquinas centraliza os serviços da rede oferecidos à demais estações (como aplicativos e filas de impressão). As máquinas que requerem esses serviços são chamadas de clientes, e as máquinas que os fornecem são chamadas de servidores.
+Enquanto em uma rede ponto-a-ponto todos os computadores são iguais e geralmente exercem a mesma função, compartilhando seus recursos mutuamente, não existindo servidores.
+
+
+4. Cite três tipos de servidores, quanto aos serviços que realizam, explicando a função de cada um deles.
+Servidor de Banco de Dados
+Um Servidor de Banco de Dados é o item do aplicativo que irá concentrar todas as gravações e consultas de dados em disco do projeto. Ele será o item responsável pela visualização desses dados. Pode ser fisicamente da mesma forma de um servidor de arquivos, mas com a responsabilidade específica de servir a uma aplicação de banco de dados e/ou arquivos de banco de dados para o ambiente de rede.
+Servidor de e-mail
+Um servidor de e-mail é um conjunto de máquina, sistema operacional e MTA (Mail Transfer Agent), o MTA é um programa que usa o protocolo SMTP (Simple Mail Transfer Protocol) para se comunicar com outros servidores e enviar ou receber mensagens. O MTA também se comunica com clientes em nível de usuário.
+Servidor de impressão 
+Um servidor de impressão é uma parte fundamental do gerenciamento de impressão, é composto de um aplicativo (software) rodando em um servidor (hardware) , destinado a controlar as tarefas de impressão enviadas para as impressoras locais e de rede, pelas diferentes estações de trabalho que compartilham entre si o uso do equipamento de impressão.
+Sua maior importância é gerar um local centralizado na rede para impressão, propiciando aos usuários e ao administrador da rede o controle de páginas impressas, permitindo definir ordem de prioridade das solicitações.
+
+Topologias de Rede
+
+5. O que é uma topologia de rede do tipo malha?
+Nessa topologia todos os nós estão atados a todos os outros nós, como se estivessem entrelaçados. Já que são vários os caminhos possíveis por onde a informação pode fluir da origem até o destino.  Neste tipo de rede, o tempo de espera é reduzido e eventuais problemas não interrompem o funcionamento da rede. Suas vantagens são a maior redundância e confiabilidade, e a facilidade de diagnóstico, também são redes de baixo custo, fácil implantação e bastante tolerantes a falhas. . E uma desvantagem é a instalação dispendiosa.
+
+6. O que é uma topologia de rede do tipo híbrida? Como funciona?
+É um tipo de estrutura que ocorre quando em uma rede existem vários tipos de topologias interligadas. Essa topologia adequa-se a topologia de rede em função do ambiente, compensando os custos, expansibilidade, flexibilidade e funcionalidade de cada segmento de rede. Um exemplo é a topologia em barra interligada com a topologia em estrela.
+
+7. Cite um ponto positivo e um ponto negativo, quanto às topologias: estrela,
+barramento e anel.
+Topologia estrela
+Ponto positivo: Falha de um computador não afeta o restante da rede.
+Ponto negativo: Uma falha no dispositivo central paralisa a rede inteira.
+Topologia barramento
+Ponto positivo: Uso de cabo é econômico;
+Ponto negativo: Falha no cabo paralisa a rede inteira.
+Topologia anel
+Ponto positivo: Performance não é impactada com o aumento de usuários.
+Ponto negativo:Falha de um computador pode afetar o restante da rede;
+
+Arquitetura de redes de computadores
+
+8. Quais são as sete camadas do modelo OSI?
+Nível de Aplicativo, nível de apresentação, nível de sessão, nível de mensagem, nível de rede, nível de trama e nível físico .
+No antigo modelo essas camadas eram denominados : camada física, de enlace de dados, de rede, de transporte, de sessão, de apresentação e de aplicação.
+
+9. Das camadas citadas na resposta da questão anterior, qual a principal função de cada uma?
+A camada física define a forma como os dados são convertidos fisicamente em sinais digitais nos meios de comunicação (impulsos elétricos, modulação da luz, etc.).
+A camada de conexão dos dados define a interface com a placa de rede e a compartilha com os meios de transmissão.
+A camada de rede permite gerenciar o endereçamento e o encaminhamento dos dados, isto é, o seu encaminhamento através da rede.
+A camada de transporte se encarrega do transporte dos dados, a sua separação em pacotes e a gestão de eventuais erros de transmissão.
+A camada de sessão define a abertura e o fim das sessões de comunicação entre as máquinas da rede.
+A camada de apresentação define o formato dos dados manipulados pelo nível de aplicação (a sua representação, eventualmente a sua compressão e a sua codificação) independentemente do sistema.
+A camada de aplicação garante a interface com os a. Trata-se do nível mais próximo dos usuários, gerenciado diretamente pelos softwares. 
+
+
+10. Quais as diferenças entre os modos de comunicação: simplex, half-duplex
+e full-duplex?
+As principais diferenças são os sentidos do fluxo de dados (se o sentido é unidireccional ou bidireccional) e também quem pode enviar e quem pode receber os dados, e se esse processo pode ser simultâneo.
+Uma comunicação é dita simplex quando há um transmissor e um receptor, sendo que este papel não se inverte nunca no período de transmissão. A transmissão tem sentido unidireccional. Pode-se ter um transmissor para vários receptores, e o receptor não tem a possibilidade de sinalizar se os dados foram recebidos.
+Uma comunicação é dita half-duplex quando temos um Transmissor e um Receptor, sendo que ambos podem transmitir e receber dados, porém nunca simultaneamente, a transmissão tem de sentido bidireccional.
+Uma comunicação é chamada full-duplex (ou simplesmente duplex) quando temos o Transmissor e o Receptor, podendo os dois transmitir dados simultaneamente em ambos os sentidos (transmissão bidireccional). 
+
+11. Quais são as camadas do modelo TCP/IP?
+Camada de acesso à rede (especifica a forma que os dados devem ser encaminhados independentemente do tipo de rede utilizado), camada da Internet (encarregada fornecer o pacote de dados, o datagrama), camada do transporte (garante o encaminhamento dos dados, assim como os mecanismos que permitem conhecer o estado da transmissão) e camada de aplicação (agrupa os a padrão da rede , como Telnet, SMTP, FTP, etc).
+
+12. Qual camada você achou mais importante no modelo OSI e no modelo
+TCP/IP? Por quê?
+No modelo TCP/IP a camada de Internet é considerada a mais importante, pois é ela que define os datagramas e que gerencia as noções de endereçamento IP. Ela permite o encaminhamento dos datagramas (pacotes de dados) para os computadores remotos, bem como a gestão da sua fragmentação e de sua montagem na recepção. A camada de Internet contém cinco protocolos: IP, ARP, ICMP, RARP e IGMP. Os três primeiros protocolos são os mais importantes desta camada. 
+Como o modelo TCP/IP, foi inspirado no modelo OSI, retomando a abordagem modular (utilização de módulos ou de camadas) contendo quatro módulos e o módulo correspondente a camada de Internet é a camada de ligação e a camada física, então no modelo OSI, as camadas importantes seriam a camada de Internet e a camada de ligação, pois a camada importante no modelo TCP/IP é a camada de Internet.
